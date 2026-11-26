@@ -1,0 +1,18 @@
+# Fichiers compilés
+*.exe
+*.o
+*.out
+a.out
+
+# Fichiers générés par les IDE
+.vscode/
+.idea/
+cmake-build-*/
+bin/
+obj/
+*.depend
+*.layout
+
+# Fichiers système
+.DS_Store
+Thumbs.db
