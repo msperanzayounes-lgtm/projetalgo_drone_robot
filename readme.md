@@ -6,12 +6,12 @@ Simulation en C (mode console) d'un **drone** qui détecte les déchets dans une
 
 ## Équipe et répartition des tâches
 
-| Membre | Rôle | Fichiers |
-|---|---|---|
-| Matteo Speranza | Coordination, programme principal, intégration, dépôt GitHub | `main.c` |
-| *[Nom 2]* | Module affichage (IHM) : grille, couleurs, infos, lecture du clavier | `affichage.c`, `affichage.h` |
-| *[Nom 3]* | Module simulation, partie 1 : réserve, déplacements, détection. Extension 1 : réserve aléatoire | `simulation.c`, `simulation.h` |
-| *[Nom 4]* | Module simulation, partie 2 : déchets, collecte, dépôt, compteurs. Extension 2 : types de déchets et statistiques | `simulation.c`, `simulation.h` |
+| Membre                 | Rôle                                                                                                              | Fichiers                       |
+| ---------------------- | ----------------------------------------------------------------------------------------------------------------- | ------------------------------ |
+| Matteo Speranza Younes | Coordination, programme principal, intégration, dépôt GitHub                                                      | `main.c`                       |
+| *Marc Ous*             | Module affichage (IHM) : grille, couleurs, infos, lecture du clavier                                              | `affichage.c`, `affichage.h`   |
+| Arthur Hayot           | Module simulation, partie 1 : réserve, déplacements, détection. Extension 1 : réserve aléatoire                   | `simulation.c`, `simulation.h` |
+| Antoine Quaranta       | Module simulation, partie 2 : déchets, collecte, dépôt, compteurs. Extension 2 : types de déchets et statistiques | `simulation.c`, `simulation.h` |
 
 ## Planning
 
